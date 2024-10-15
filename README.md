@@ -64,5 +64,5 @@ Check out the live demo of the project: [Live Demo](https://elevate-ecommerce.ve
 - **Vercel**: For hosting the live demo
 - **Fake Store API**: For product data
 
-## Folder Structure
+
 
